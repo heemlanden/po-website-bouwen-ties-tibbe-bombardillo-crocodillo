@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang=nl>
+<head>
+    <title>Profielpagina Ties Bessems</title>
+<style>
+    body {
+        background-color: beige
+    }
+</style>
+</head>
+<body>
+    
+<h2 style="font-family:Lucida Sans">Mijn Profielpagina</h2>
+<h2 style="font-family:Lucida Sans;">Ties Bessems</h2> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQONfI3uSIpxVp-yzp1GcVJaJwsP_wB6KSNsZdp1yBCXOlQWiu2C691HxOEcgngmouTQVz9wlk7eDAMG25VDXO_1Y4cBGytBiBQTVNw_peWPw&s=10" alt="Capybara" Width="282" height="273">
+</body>
+</html>
