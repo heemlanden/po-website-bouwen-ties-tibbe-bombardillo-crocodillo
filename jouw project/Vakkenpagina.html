@@ -33,18 +33,14 @@
         display: inline-block;
         font-size: 20px;
         margin: 30px 75px;
-        transition-duration: 0,6s;
+        transition-duration: 0.6s;
         cursor: pointer;
+        float: right;
     }
     
     .button1 {border: 2px solid #f5f5db}
     
-    .button1: hover {
-        background-color: #f5f5db;
-        color: brown;
-    }
-    
-    .button1: hover {
+    .button1:hover {
         background-color: #f5f5db;
         color: brown;
     }
@@ -52,7 +48,9 @@
 </head>
 <body style="background-color: peachpuff">
     <h1 style="font-family: fantasy; text-align: center;">Vakkenpagina</h1>
-    
+ <button class="button1" onclick="window.location.href='Homepage Face-magister.html'">
+    Terug
+</button>   
 <table>
     <tr>
         <th><b>Vakken</b></th>
@@ -102,9 +100,26 @@
         <th>Spaans</th>
         <th>Spzl</th>
     </tr>
+    <tr>
+        <th>Duits</th>
+        <th>Duzl</th>
+    </tr>
+    <tr>
+        <th>Economie</th>
+        <th>Eco</th>
+    </tr>
+    <tr>
+        <th>Bedrijfseconomie</th>
+        <th>Beco</th>
+    </tr>
+    <tr>
+        <th>Geschiedenis</th>
+        <th>Ges</th>
+    </tr>
+    <tr>
+        <th>Biologie</th>
+        <th>Bio</th>
+    </tr>
 </table>
-<button class="button1" onclick="window.location.href='Homepage Face-magister.html'">
-    Terug
-</button>
 </body>
 </html>
