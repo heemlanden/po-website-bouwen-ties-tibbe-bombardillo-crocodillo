@@ -1,0 +1,30 @@
+ table{
+            font-family: rockwell;   
+            border-collapse: collapse;
+            width: 600px;
+            }
+            td, th {
+                border: 1px solid #000000;
+                text-align: left;
+                padding: 8px;   
+            }
+            tr:nth-child(even) {
+             background-color: beige   
+            }
+            .button{   
+        background-color: peachpuff;
+        border: none;
+        font-family: Rockwell;
+        border-radius: 5px;
+        color: black;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        margin: 30px 75px;
+        transition-duration: 0.6s;
+        cursor: pointer; 
+        float: right; margin-top: -340px}
+            .button:hover{background-color: #f5f5db; color: brown}
+            .button{border: 2px solid #f5f5db;}
