@@ -1,0 +1,21 @@
+ img {
+        float: right;
+        margin-right: 112px;
+        margin-top: -67px;
+        Width: 10%;
+        height: 10%;
+    }
+    button {
+        background-color: beige;
+        font-family: Rockwell;
+        border-radius: 5px;
+        font-size: 20px;
+        border-block: none;
+        padding: 10px 27px;
+        border: none;
+        margin-top: 50px;
+        margin-right: 158px; 
+    }
+    .button1 {background-color: beige} /*Terug*/
+    .button2 {background-color: beige} /*Specifieke informatie*/
+    
