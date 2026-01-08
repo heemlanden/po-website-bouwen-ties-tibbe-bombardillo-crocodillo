@@ -14,8 +14,7 @@
     tr:nth-child(even) {
         background-color: #f5f5db;
         border: 2px solid;
-    }
-button {
+    }button {
         background-color: peachpuff;
         border: none;
         font-family: Rockwell;
