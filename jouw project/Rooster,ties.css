@@ -1,0 +1,17 @@
+ table {
+        font-family: Rockwell;
+        border-collapse: collapse;
+        Width: 40%;
+        margin-bottom: 30px;
+    }
+
+    td, th {
+        border: 2px solid;
+        text-align: left;
+        padding: 8px;
+    }
+    
+    tr:nth-child(even) {
+        background-color: #f5f5db;
+        border: 2px solid;
+    }
